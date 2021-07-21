@@ -1,5 +1,14 @@
 # @backstage/plugin-catalog-import
 
+## 0.5.14
+
+### Patch Changes
+
+- 903f3323c: Fix heading that wrongly implied catalog-import supports entity discovery for multiple integrations.
+- Updated dependencies
+  - @backstage/core-components@0.1.6
+  - @backstage/catalog-client@0.3.17
+
 ## 0.5.13
 
 ### Patch Changes
